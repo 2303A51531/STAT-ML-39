@@ -9,3 +9,4 @@ https://colab.research.google.com/drive/1ksqtnHVqHFCHaCCXobPy43xsmTONxTA3#scroll
 6 . [https://github.com/2303A51531/STAT-ML-39/blob/main/SML_A9.ipynb]
 4 . [https://github.com/2303A51531/STAT-ML-39/blob/main/SML_A10.ipyn]
 11. [https://github.com/2303A51531/STAT-ML-39/blob/main/SML_A11.ipynb]
+12.[https://github.com/2303A51531/STAT-ML-39/blob/main/sml__12.ipynb]
